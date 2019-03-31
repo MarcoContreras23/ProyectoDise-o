@@ -293,15 +293,15 @@
 #wowslider-container1 .ws-title{
 	position:absolute;
 	display:block;	
-	left: 63%;
+	left: 65%;
 	margin: 9px;
 	z-index: 50;
 	/*font-family:Oswald, Impact,Charcoal, sans-serif;*/
 	/*font: 2.5em 'Anton', sans-serif;*/
 	font: 'Verdana';
 	color: #000000;
-	font: 3em/0.8em "Anton",sans-serif!important;
-	top: 155px!important;
+	font: 4em/0.7em "Anton",sans-serif!important;
+	top: 250px!important;
 	letter-spacing: 1px;	
 	/*text-shadow: 1px 1px 1px #BBBBBB;*/
 }

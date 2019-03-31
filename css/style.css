@@ -320,8 +320,8 @@ nav a {
 }
 
 #wowslider-container1, #wowslider-container1 .ws_images > div > img, #wowslider-container1 .ws_images {
-  max-height: 240px !important;
-  max-width: 657px !important;
+  max-height: 330px !important;
+  max-width: 900px !important;
 }
 
 /*------- end slider -------*/
@@ -333,7 +333,7 @@ nav a {
   border-bottom: 10px solid #343428;
   border-top: 10px solid #343428;
   margin-top: 10px;
-  min-height: 439px;
+  min-height: 100px;
   padding: 15px 0 0 15px;
 }
 
